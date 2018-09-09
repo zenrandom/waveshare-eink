@@ -1,4 +1,5 @@
- #  @author     :   Yehui from Waveshare
+ #  Author @zenrandom
+ #  Based on Demo code from   :   Yehui from Waveshare
  #
  ##
 
